@@ -2,7 +2,7 @@
   "name": "05-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://KureninovArtem.github.io/goit-react-hw-05-movies/",
+  "homepage": "https://yovsyannikov.github.io/05-test/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
